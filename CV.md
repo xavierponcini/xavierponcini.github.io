@@ -4,4 +4,4 @@ title: CV
 permalink: /CV/
 ---
 
-My CV coming soon...
+My CV coming soon... Check check
