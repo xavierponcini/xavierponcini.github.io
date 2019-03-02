@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CV
-permalink: /CV/
+title: Tab 1
+permalink: /tab1/
 ---
 
 Coming soon...
