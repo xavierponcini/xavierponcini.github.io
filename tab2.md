@@ -1,6 +1,6 @@
 ---
 layout: page
-title: QFT Seminar Series
+title: QFTT Seminar Series
 permalink: /tab2/
 ---
 
