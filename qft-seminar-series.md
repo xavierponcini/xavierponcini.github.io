@@ -14,22 +14,22 @@ A description of the topic and perhaps some motivation of why this is an interes
 
 [0/ Overview](qft/overview.md)
 
-[1/ The six-vertex model](six-vertex-model.md)
+[1/ The six-vertex model](qft/six-vertex-model.md)
 
-[2/ Quantum groups and the YBE I](quantum-groups-ybe-i.md)
+[2/ Quantum groups and the YBE I](qft/quantum-groups-ybe-i.md)
 
-[3/ Quantum groups and the YBE II](quantum-groups-ybe-ii.md)
+[3/ Quantum groups and the YBE II](qft/quantum-groups-ybe-ii.md)
 
-[4/ Lattice models and ASM's I](lattice-models-asms-i.md)
+[4/ Lattice models and ASM's I](qft/lattice-models-asms-i.md)
 
-[5/ Lattice models and ASM's II](lattice-models-asms-ii.md)
+[5/ Lattice models and ASM's II](qft/lattice-models-asms-ii.md)
 
-[6/ Fermionic methods and lattice models](fermionic-methods-lattice-models.md)
+[6/ Fermionic methods and lattice models](qft/fermionic-methods-lattice-models.md)
 
-[7/ Lattice models and Hall-Littlewood polynomials I](lattice-models-hall-littlewood-polynomials-i.md)
+[7/ Lattice models and Hall-Littlewood polynomials I](qft/lattice-models-hall-littlewood-polynomials-i.md)
 
-[8/ Lattice models and Hall-Littlewood polynomials II](lattice-models-hall-littlewood-polynomials-ii.md)
+[8/ Lattice models and Hall-Littlewood polynomials II](qft/lattice-models-hall-littlewood-polynomials-ii.md)
 
-[9/ Lattice models and the Jones polynomial](lattice-models-jones-polynomial.md)
+[9/ Lattice models and the Jones polynomial](qft/lattice-models-jones-polynomial.md)
 
 ---
