@@ -32,27 +32,25 @@ A description of the topic and perhaps some motivation of why this is an interes
 
 
 
-0/ Overview
+0/ [Overview](overview.md)
 
-1/ The six-vertex model
+1/ [The six-vertex model](six-vertex-model.md)
 
-2/ Quantum groups and the YBE I
+2/ [Quantum groups and the YBE I](quantum-groups-ybe-i.md)
 
-3/ Quantum groups and the YBE II
+3/ [Quantum groups and the YBE II](quantum-groups-ybe-ii.md)
 
-4/ Lattice models and ASM's I
+4/ [Lattice models and ASM's I](lattice-models-asms-i.md)
 
-5/ Lattice models and ASM's II
+5/ [Lattice models and ASM's II](lattice-models-asms-ii.md)
 
-6/ Fermionic methods and lattice models
+6/ [Fermionic methods and lattice models](fermionic-methods-lattice-models.md)
 
-7/ Lattice models and Hall-Littlewood polynomials I
+7/ [Lattice models and Hall-Littlewood polynomials I](lattice-models-hall-littlewood-polynomials-i.md)
 
-8/ Lattice models and Hall-Littlewood polynomials II
+8/ [Lattice models and Hall-Littlewood polynomials II](lattice-models-hall-littlewood-polynomials-ii.md)
 
-9/ Lattice models and the Jones polynomial
-
-10/ Like [tab1](tab1.md)
+9/ [Lattice models and the Jones polynomial](lattice-models-jones-polynomial.md)
 
 
 
