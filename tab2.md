@@ -47,6 +47,14 @@ A description of the topic and perhaps some motivation of why this is an interes
     9/ Lattice models and the Jones polynomial
     10/ Like [tab1](tab1.md)
 
+[`1/ Check`](tab1.md)
+
+[`2/ Check`](tab1.md)
+
+[`3/ Check`](tab1.md)
+
+
+
 
 
 1. Let's see what this  
