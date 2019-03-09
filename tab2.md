@@ -8,4 +8,7 @@ Coming soon...
 
 1. Let's see what this  
 2. Appears 
-3. Like: [a relative link](tab1.md)
+3. Like [tab1](tab1.md)
+4. Another [CV](CV.md)
+5. And another [about](about.md)
+ 
