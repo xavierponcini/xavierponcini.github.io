@@ -1,7 +1,7 @@
 ---
 layout: page
 title: QFT Seminar Series
-permalink: /QFT-Seminar-Series/
+permalink: /tab2/
 ---
 
 A description of the series and the goals. Next we want to have titles based on the topic and time of the seminars.
