@@ -11,19 +11,6 @@ A description of the series and the goals. Next we want to have titles based on 
 A description of the topic and perhaps some motivation of why this is an interesting topic. New we want a list of the topics and perhaps the speakers of each? Maybe start with the prereading for each of the topics.
 
 
-0/ Overview 
-1/ The six-vertex model
-2/ Quantum groups and the YBE I
-3/ Quantum groups and the YBE II
-4/ Lattice models and ASM's I
-5/ Lattice models and ASM's II
-6/ Fermionic methods and lattice models
-7/ Lattice models and Hall-Littlewood polynomials I
-8/ Lattice models and Hall-Littlewood polynomials II
-9/ Lattice models and the Jones polynomial
-
-
-
     0/ Overview 
     1/ The six-vertex model
     2/ Quantum groups and the YBE I
@@ -34,6 +21,7 @@ A description of the topic and perhaps some motivation of why this is an interes
     7/ Lattice models and Hall-Littlewood polynomials I
     8/ Lattice models and Hall-Littlewood polynomials II
     9/ Lattice models and the Jones polynomial
+    10/ Like [tab1](tab1.md)
 
 
 
