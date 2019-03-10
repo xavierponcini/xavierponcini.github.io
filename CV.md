@@ -30,12 +30,22 @@ Working with the CSIRO gave me an opportunity to explore how academic research c
 The opportunity to tutor laboratories for multiple subjects at the University of Queens-land (PHYS1001/PHYS1171) has demonstrated the value in having your understanding chal-lenged. Encouraging a fresh perspective on a topic and presenting it in an easy anddigestible fashion, fostering the growth of the students and myself simultaneously.
 
 ---
+---
 
 ## Research Experience 
 
 ---
 
+### Honours Research
+#### _University of Queensland_ Mar-Nov 2018
 
+...
+
+
+### Undergraduate Research
+#### _University of Queensland_ Aug-Oct 2017
+
+Prof. Ben Powell, Joshua Foo and I, contributed in the development of a theoretical basisby which Quantum Spin Liquids (QSLs) can be detected via Raman scattering. Applyingsecond quantisation and Fourier analysis we made progress in the determination of thestructure constant of a particular material which can be used in the characterisation of QSLs.
 
 
 
