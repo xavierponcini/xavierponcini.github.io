@@ -59,12 +59,19 @@ The opportunity to tutor laboratories for multiple subjects at the University of
 
 ---
 
+**Postgraduate:** _University of Queensland_, St Lucia
+
+Current - April 2019// Doctor of Philosophy
+
+
 **Undergraduate:** _University of Queensland_, St Lucia
 
-Bachelor of Advanced Science (Honours class I), Physics Major
+Nov 2018// Bachelor of Advanced Science (Honours class I), Physics Major
 
 
 **Highschool:** _Unity college_, Caloundra
+
+Nov 2014//
 
 ---
 ---
