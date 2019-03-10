@@ -71,7 +71,7 @@ Nov 2018// Bachelor of Advanced Science (Honours class I), Physics Major
 
 **Highschool:** _Unity college_, Caloundra
 
-Nov 2014//
+Nov 2014//  Queensland Certificate of Education
 
 ---
 ---
