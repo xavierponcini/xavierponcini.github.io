@@ -4,4 +4,13 @@ title: Quantum groups and the Yang-Baxter Equation II
 permalink: /quantum-groups-ybe-ii/
 ---
 
-Coming soon... 
+Source material:
+
+1. A
+    1. Vyjayanthi Chari and Andrew Pressley. A guide to quantum groups. Cambridge University Press, Cambridge, 1994.
+1. A
+    1. Michio Jimbo. A q-difference analogue of U(g) and the Yang-Baxter equation. Lett. Math. Phys., 10(1):63–69, 1985.
+1. A
+    1. Jin Hong and Seok-Jin Kang. Introduction to quantum groups and crystal bases, volume 42 of Graduate Studies in Mathematics. American Mathematical Society, Providence, RI, 2002.
+1. A
+    1. William Fulton and Joe Harris. Representation theory, volume 129 of Graduate Texts in Mathematics. Springer-Verlag, New York, 1991. A first course, Readings in Mathematics.

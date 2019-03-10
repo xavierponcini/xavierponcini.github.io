@@ -4,4 +4,7 @@ title: Quantum groups and the Yang-Baxter Equation I
 permalink: /quantum-groups-ybe-i/
 ---
 
-Coming soon... 
+Source material:
+
+1. A
+    1. Vyjayanthi Chari and Andrew Pressley. A guide to quantum groups. Cambridge University Press, Cambridge, 1994.
