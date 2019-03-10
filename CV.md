@@ -8,6 +8,29 @@ permalink: /CV/
 ---
 ---
 
+## Research Experience 
+
+---
+
+### Honours Research
+#### _University of Queensland_ Mar-Nov 2018
+
+...
+
+
+### Undergraduate Research
+#### _University of Queensland_ Aug-Oct 2017
+
+Prof. Ben Powell, Joshua Foo and I, contributed in the development of a theoretical basisby which Quantum Spin Liquids (QSLs) can be detected via Raman scattering. Applyingsecond quantisation and Fourier analysis we made progress in the determination of thestructure constant of a particular material which can be used in the characterisation of QSLs.
+
+### Summer Research Scholar
+#### University of Queensland
+
+During this time Dr Joel Corney and I analysed the influence of measurement back-action on a Bose-Einstein condensate. A model was developed describing the systemusing stochastic differential equations. XMDS was used to simulate the interaction ofweak, medium and strong measurements of the system, visualising the dynamics of thesystems as paths in phase space. For this research i was awarded credit toward mydegree receiving a grade of 7.
+
+---
+---
+
 ## Industry Experience 
 
 ---
@@ -31,27 +54,6 @@ The opportunity to tutor laboratories for multiple subjects at the University of
 
 ---
 ---
-
-## Research Experience 
-
----
-
-### Honours Research
-#### _University of Queensland_ Mar-Nov 2018
-
-...
-
-
-### Undergraduate Research
-#### _University of Queensland_ Aug-Oct 2017
-
-Prof. Ben Powell, Joshua Foo and I, contributed in the development of a theoretical basisby which Quantum Spin Liquids (QSLs) can be detected via Raman scattering. Applyingsecond quantisation and Fourier analysis we made progress in the determination of thestructure constant of a particular material which can be used in the characterisation of QSLs.
-
-
-
----
-
-
 
 ## Education
 
