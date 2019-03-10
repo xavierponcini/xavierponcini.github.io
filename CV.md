@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Curriculum Vitae
+title:
 permalink: /CV/
 ---
 
 ## Industry Experience 
+
+---
 
 ### Machine Learning Engineer
 #### _Max Kelsen_ Jul 18 - Current
@@ -22,6 +24,8 @@ Working with the CSIRO gave me an opportunity to explore how academic research c
 #### _University of Queensland_ Mar-Oct 17
 
 The opportunity to tutor laboratories for multiple subjects at the University of Queens-land (PHYS1001/PHYS1171) has demonstrated the value in having your understanding chal-lenged. Encouraging a fresh perspective on a topic and presenting it in an easy anddigestible fashion, fostering the growth of the students and myself simultaneously.
+
+---
 
 ## Research Experience 
 
