@@ -15,7 +15,7 @@ permalink: /CV/
 ### Honours Research
 #### _University of Queensland_ Mar-Nov 2018
 
-Under the supervision of Prof. Jørgen Rasmussen we developed a new infinite class of integrable boundary conditions to the existing (2, 2) Temperley-Lieb loop model. A key development in this research was a novel solution the the Yang-Baxter equation.  This result permits a matrix representation of the Hamiltonian - facilitating a calculation of the energy level structure of the model. We also explored the representation theory of the (2, 2) Temperley-Lieb algebra where we provided new insights into the conditions of irreducibility of this structure.
+Under the supervision of Prof. Jørgen Rasmussen we introducted a new infinite class of integrable boundary conditions to the existing (2, 2) Temperley-Lieb loop model. A key development in this research was a novel solution the the Yang-Baxter equation.  This result permits a matrix representation of the Hamiltonian - facilitating a calculation of the energy level structure of the model. We also explored the representation theory of the (2, 2) Temperley-Lieb algebra where we provided new insights into the conditions of irreducibility of this structure.
 
 
 ### Undergraduate Research
@@ -57,7 +57,7 @@ The opportunity to tutor laboratories for multiple subjects at the University of
 
 ## Education
 
---
+---
 
 **Undergraduate:** _University of Queensland_, St Lucia
 
@@ -65,3 +65,6 @@ Bachelor of Advanced Science (Honours class I), Physics Major
 
 
 **Highschool:** _Unity college_, Caloundra
+
+---
+---
