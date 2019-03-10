@@ -1,7 +1,11 @@
 ---
 layout: page
-title:
+title: Curriculum Vitae
+
 permalink: /CV/
+---
+
+---
 ---
 
 ## Industry Experience 
@@ -28,6 +32,14 @@ The opportunity to tutor laboratories for multiple subjects at the University of
 ---
 
 ## Research Experience 
+
+---
+
+
+
+
+
+---
 
 
 
