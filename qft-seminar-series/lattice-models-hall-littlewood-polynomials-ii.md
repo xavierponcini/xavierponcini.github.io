@@ -6,5 +6,4 @@ permalink: /lattice-models-hall-littlewood-polynomials-ii/
 
 Source material:
 
-1. A
-    1. Michael Wheeler and Paul Zinn-Justin. _Refined Cauchy/Littlewood identities and six-vertex model partition functions: III. Deformed bosons._ Adv. Math., 299:543–600, 2016. 
+1. Michael Wheeler and Paul Zinn-Justin. _Refined Cauchy/Littlewood identities and six-vertex model partition functions: III. Deformed bosons._ Adv. Math., 299:543–600, 2016. 
