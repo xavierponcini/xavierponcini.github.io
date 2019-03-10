@@ -6,8 +6,8 @@ permalink: /six-vertex-model/
 
 Source material:
 
-1. A
-    1. Vyjayanthi Chari and Andrew Pressley. A guide to quantum groups. Cambridge University Press, Cambridge, 1994.
+1. B
+    1. Vyjayanthi Chari and Andrew Pressley. _A guide to quantum groups_. Cambridge University Press, Cambridge, 1994.
 1. B
     1. Rodney J. Baxter. Exactly solved models in statistical mechanics. Academic Press, Inc. [Harcourt Brace Jovanovich, Publishers], London, 1982.
 1. C
