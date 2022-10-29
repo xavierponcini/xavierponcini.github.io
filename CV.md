@@ -8,49 +8,13 @@ permalink: /CV/
 ---
 ---
 
-## Research Experience 
+## Employment
 
 ---
 
-### Honours Research
-#### _University of Queensland_ Mar-Nov 2018
+2022 -- present// **Senior research assistant**, The University of Queensland
 
-Under the supervision of Prof. Jørgen Rasmussen we introducted a new infinite class of integrable boundary conditions to the existing (2, 2) Temperley-Lieb loop model. A key development in this research was a novel solution the the Yang-Baxter equation.  This result permits a matrix representation of the Hamiltonian - facilitating a calculation of the energy level structure of the model. We also explored the representation theory of the (2, 2) Temperley-Lieb algebra where we provided new insights into the conditions of irreducibility of this structure.
-
-
-### Undergraduate Research
-#### _University of Queensland_ Aug-Oct 2017
-
-Prof. Ben Powell, Joshua Foo and I, contributed in the development of a theoretical basis by which Quantum Spin Liquids (QSLs) can be detected via Raman scattering. Applying second quantisation and Fourier analysis we made progress in the determination of the structure constant of a particular material which can be used in the characterisation of QSLs.
-
-### Summer Research Scholar
-#### University of Queensland
-
-During this time Dr Joel Corney and I analysed the influence of measurement back-action on a Bose-Einstein condensate. A model was developed describing the systemusing stochastic differential equations. XMDS was used to simulate the interaction ofweak, medium and strong measurements of the system, visualising the dynamics of thesystems as paths in phase space. For this research i was awarded credit toward mydegree receiving a grade of 7.
-
----
----
-
-## Industry Experience 
-
----
-
-### Machine Learning Engineer
-#### _Max Kelsen_ Jul 18 - Current
-
-Existing at the interface between novel research and industry application Max Kelsen applies machine learning and artificial intelligence technologies to provide customer based solutions. My current project involves the implementation of machine learningin the genetic screening of patients for immunotherapy. The opportunity to implementexciting research to provide a direct positive influence on patients is an exciting prospect.
-
-
-### UQ Industry Experience Scholar
-#### _CSIRO_ Feb 17/18
-
-Working with the CSIRO gave me an opportunity to explore how academic research canbe tailored to successful industry applications. My role was to evaluate the effectiveness of a low cost nitrate sensor with the goal of informing North Queensland farmers of their impact on the health of the Great Barrier Reef. During this time I worked closely with laboratory technicians and computer scientists alike to conclude that the proposed sensor did not provide the required level of accuracy.
-
-
-### Laboratory Tutor
-#### _University of Queensland_ Mar-Oct 17
-
-The opportunity to tutor laboratories for multiple subjects at the University of Queensland (PHYS1001/PHYS1171) has demonstrated the value in having your understanding challenged. Encouraging a fresh perspective on a topic and presenting it in an easy and digestible fashion, fostering the growth of the students and myself simultaneously.
+2018 -- present// **Machine learning researcher**, [Max Kelsen](https://maxkelsen.com/)
 
 ---
 ---
@@ -61,17 +25,32 @@ The opportunity to tutor laboratories for multiple subjects at the University of
 
 **Postgraduate:** _University of Queensland_, St Lucia
 
-Current - April 2019// Doctor of Philosophy
+2019 -- present// Doctor of Philosophy
 
 
 **Undergraduate:** _University of Queensland_, St Lucia
 
-Nov 2018// Bachelor of Advanced Science (Honours class I), Physics Major
+2015 -- 2018// Bachelor of Advanced Science (Honours class I), Physics Major
 
+---
+---
 
-**Highschool:** _Unity college_, Caloundra
+## Publications
 
-Nov 2014//  Queensland Certificate of Education
+---
+
+2022// **Integrability of planar-algebraic models**
+       X. Poncini, J. Rasmussen
+       Submitted to _Commun. Math. Phys._, available at [arXiv:2206.14462](https://doi.org/10.48550/arXiv.2206.14462)
+
+2021// **Critical behaviour of loop models on causal triangulations**
+       B. Durhuus, X. Poncini, J. Rasmussen, M. Ünel
+       [_J. Stat. Mech. 113102 (2021)_](https://doi.org/10.1088/1742-5468/ac2dfa) also available at [arXiv:2104.14176](https://doi.org/10.48550/arXiv.2104.14176)
+       
+       **Approximations in transmon simulation**
+       T. Jones, K. Steven, X. Poncini, M. Rose, A. Fedorov
+       [_Phys. Rev. Applied 16, 054039 (2021)_]https://doi.org/10.1103/PhysRevApplied.16.054039}) also available at [arXiv:2102.09721](https://doi.org/10.48550/arXiv.2102.09721)
+
 
 ---
 ---
