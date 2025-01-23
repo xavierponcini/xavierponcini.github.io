@@ -64,7 +64,7 @@ X. Poncini, J. Rasmussen
 
 B. Durhuus, X. Poncini, J. Rasmussen, M. Ünel
 
-[_J. Stat. Mech. (2021) 113102 _](https://doi.org/10.1088/1742-5468/ac2dfa) also available at [arXiv:2104.14176](https://doi.org/10.48550/arXiv.2104.14176)
+[_J. Stat. Mech. (2021) 113102_](https://doi.org/10.1088/1742-5468/ac2dfa) also available at [arXiv:2104.14176](https://doi.org/10.48550/arXiv.2104.14176)
        
 
 **Approximations in transmon simulation**
