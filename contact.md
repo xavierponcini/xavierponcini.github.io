@@ -6,9 +6,9 @@ permalink: /contact/
 
 Email:
 
-1. <x.poncini@uq.edu.au>
-1. <xavier.poncini@maxkelsen.com>
+1. <xponcini@gmail.com>
+1. <xavier.poncini@aalto.fi>
 
 Address: 
 
-School of Mathematics and Physics, The University of Queensland, St Lucia, QLD, Australia
+Department of Mathematics and Systems Analysis, Aalto University, Espoo, Finland
