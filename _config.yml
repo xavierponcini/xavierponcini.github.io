@@ -1,7 +1,6 @@
 # Site settings
 title_left    : "Xavier"
 title_right   : " Poncini" # default: ""
-description   : ""
 keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url           : https://xavierponcini.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
