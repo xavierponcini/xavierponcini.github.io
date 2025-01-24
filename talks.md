@@ -9,25 +9,24 @@ permalink: /talks/
 
 2024//
 
-_Transformer mechanistic interpretability_
+**Transformer mechanistic interpretability**
 
-**Mathematical physics seminar**, Aalto University
+Mathematical physics seminar, Aalto University
 
-_The multi-parametric Yang–Baxter equation and planar algebraisation_
+**The multi-parametric Yang–Baxter equation and planar algebraisation**
 
-**Mathematical physics seminar**, Aalto University
+Mathematical physics seminar, Aalto University
 
 
 2023//
+**Planar-algebraic models: statistical mechanics and knot theory**
 
-_Planar-algebraic models: statistical mechanics and knot theory_
+Mathematical physics seminar, Aalto University
 
-**Mathematical physics seminar**, Aalto University
+**Subfactors and quantum integrability**
 
-_Subfactors and quantum integrability_
+Mathematical physics seminar, The University of Melbourne
 
-**Mathematical physics seminar**, The University of Melbourne
+**A planar-algebraic universe**, [slides](https://xavierponcini.github.io/pdfs/PAU_slides.pdf)
 
-_A planar-algebraic universe_
-
-**Mathematical physics seminar**, Aalto University
+Mathematical physics seminar, Aalto University
