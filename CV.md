@@ -16,7 +16,7 @@ permalink: /CV/
 
 2022 -- 2023// **Senior research assistant**, The University of Queensland
 
-2018 -- present// **Machine learning researcher**, [Max Kelsen](https://maxkelsen.com/)
+2018 -- 2023// **Machine learning researcher**, [Max Kelsen](https://maxkelsen.com/)
 
 ---
 ---
